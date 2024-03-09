@@ -25,7 +25,7 @@ echo "*           88      88  88    88  88 88    88  88   *"
 echo "*           88888   8888      88  88  88   88  8888 *"
 echo "*              88   88  88    88  88    88 88    88 *"
 echo "*           88888   88   88   88  88     8888  8888 *"
-echo "*                Enigma2 restart is required           *"
+echo "*                Enigma2 restart is required          *"
 echo "*************************************************************************************************"
 echo "   UPLOADED BY  >>>>   HAMDY_AHMED "
 sleep 4;
